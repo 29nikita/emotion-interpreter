@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  display: block;
+  margin: auto;
+  width: 20%;
+  height: 1.3rem;
+  margin-bottom: 1rem;
+}
+
+.emoji {
+  font-size: 2rem;
+  letter-spacing: 0.5rem;
+  cursor: pointer;
+}
