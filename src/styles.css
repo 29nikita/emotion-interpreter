@@ -3,6 +3,10 @@
   text-align: center;
 }
 
+body {
+  background-color: rgb(255, 239, 159);
+}
+
 input {
   display: block;
   margin: auto;
